@@ -1,0 +1,10 @@
+ipykernel
+langchain
+langchain_core
+langchain_community
+langchain_text_splitters
+pypdf
+langchain_groq
+langchain-ollama
+sentence-transformers
+faiss-cpu
